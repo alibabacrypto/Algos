@@ -16,7 +16,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Binary binary = new Binary();
-        binary.hammingDistance();
+        binary.flipImage();
+       // binary.hammingDistance();
 
         //orignal way of building the list
 //        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -51,7 +51,7 @@ public class Binary {
 
         for(int i = 0; i < image.length; i ++){
 
-            
+
 
         }
 
